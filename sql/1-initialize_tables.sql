@@ -1,4 +1,4 @@
-INSERT INTO Customers VALUES (1,'Company X','05512351922','Bogazici University','companx@outlook.com');
+INSERT INTO Customers VALUES (1,'Company X','01234567890','Bogazici University','companx@outlook.com');
 
 INSERT INTO ITEMS
 VALUES
