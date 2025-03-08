@@ -1,3 +1,5 @@
+# MRP Systems by SQL
+
 This project implements a Material Requirements Planning (MRP) system for managing production and inventory as the final project of BOUN business information systems management WS21/22 course. 
 
 Key Features:
